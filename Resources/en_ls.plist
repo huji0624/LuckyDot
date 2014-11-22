@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>guidetext</key>
+	<string>Click to check instruction&gt;</string>
+	<key>info_ef_freeze</key>
+	<string>Add time</string>
+	<key>info_ef_fixdt</key>
+	<string>Reduce time change rate</string>
+	<key>info_ef_addmul</key>
+	<string>Add click score mutiplier</string>
+	<key>info_ef_fire</key>
+	<string>Get score,more black dot,more score</string>
+	<key>info_ef_fireg</key>
+	<string>Get score,more green dot,more score</string>
+	<key>info_ef_fireb</key>
+	<string>Get score,more blue dot,more score</string>
+	<key>info_ef_heal</key>
+	<string>Translate 2 black dot into gray dot</string>
+	<key>info_ef_heal_blue</key>
+	<string>Translate 1 black dot into blue dot</string>
+	<key>info_ef_heal_red</key>
+	<string>Translate 1 black dot into red dot</string>
+	<key>info_ef_black</key>
+	<string>Translate 1 no-black dot into black dot</string>
+	<key>info_ef_rollover</key>
+	<string>Rollover
+Translate red dot into green dot
+Translate green dot into blue dot
+Translate blue dot into red dot</string>
+	<key>shareend</key>
+	<string> in LuckyDot!Have a try!</string>
+	<key>sharepre</key>
+	<string>I got </string>
+	<key>best</key>
+	<string>Best</string>
+	<key>score</key>
+	<string>Score</string>
+	<key>gameover</key>
+	<string>Game Over</string>
+	<key>heal</key>
+	<string>Heal Black</string>
+	<key>freeze</key>
+	<string>More Time</string>
+	<key>fixdt</key>
+	<string>Fix ΔT</string>
+	<key>addmul</key>
+	<string>Add Multiplier</string>
+	<key>fire</key>
+	<string>More Score</string>
+	<key>toblack</key>
+	<string>Get Black</string>
+	<key>rollover</key>
+	<string>Roll Over</string>
+	<key>tapplay</key>
+	<string>Tap the dot to start play!
+Don&apos;t tap the black!</string>
+	<key>leaderboard</key>
+	<string>Rank</string>
+	<key>share</key>
+	<string>Share</string>
+	<key>back</key>
+	<string>Back</string>
+	<key>replay</key>
+	<string>Replay</string>
+	<key>play</key>
+	<string>Play</string>
+	<key>email</key>
+	<string>Email</string>
+	<key>art</key>
+	<string>Art</string>
+	<key>program</key>
+	<string>Program</string>
+	<key>gamedesign</key>
+	<string>Game Design</string>
+	<key>appname</key>
+	<string>Lucky Dot</string>
+</dict>
+</plist>

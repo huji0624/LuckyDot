@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>guidetext</key>
+	<string>点击这里查看说明&gt;</string>
+	<key>info_ef_freeze</key>
+	<string>增加剩余时间</string>
+	<key>info_ef_fixdt</key>
+	<string>减缓时间变化的速度</string>
+	<key>info_ef_addmul</key>
+	<string>增加每次点击得分系数</string>
+	<key>info_ef_fire</key>
+	<string>得分增加，黑色点越多，得分越多</string>
+	<key>info_ef_fireg</key>
+	<string>得分增加，绿色点越多，得分越多</string>
+	<key>info_ef_fireb</key>
+	<string>得分增加，蓝色点越多，得分越多</string>
+	<key>info_ef_heal</key>
+	<string>将两个黑色点转变为灰色点</string>
+	<key>info_ef_heal_blue</key>
+	<string>将一个黑色点转变为蓝色点</string>
+	<key>info_ef_heal_red</key>
+	<string>将一个黑色点转变为红色点</string>
+	<key>info_ef_black</key>
+	<string>将一个其他点转变为黑色点</string>
+	<key>info_ef_rollover</key>
+	<string>翻转效果
+红色点变为绿色点
+绿色点变为蓝色点
+蓝色点变为红色点</string>
+	<key>shareend</key>
+	<string>分，你也来试试吧!</string>
+	<key>sharepre</key>
+	<string>我在“幸运点”中获得了</string>
+	<key>best</key>
+	<string>最高</string>
+	<key>score</key>
+	<string>得分</string>
+	<key>gameover</key>
+	<string>游戏结束</string>
+	<key>heal</key>
+	<string>修复黑点</string>
+	<key>freeze</key>
+	<string>时间增加</string>
+	<key>fixdt</key>
+	<string>修复ΔT</string>
+	<key>addmul</key>
+	<string>增加得分系数</string>
+	<key>fire</key>
+	<string>得分暴走</string>
+	<key>toblack</key>
+	<string>变黑</string>
+	<key>rollover</key>
+	<string>翻转</string>
+	<key>tapplay</key>
+	<string>点击圆点开始游戏!不能点黑色哦!</string>
+	<key>leaderboard</key>
+	<string>排名</string>
+	<key>share</key>
+	<string>分享</string>
+	<key>back</key>
+	<string>返回</string>
+	<key>replay</key>
+	<string>重玩</string>
+	<key>play</key>
+	<string>开始</string>
+	<key>email</key>
+	<string>邮箱</string>
+	<key>art</key>
+	<string>美术</string>
+	<key>program</key>
+	<string>程序</string>
+	<key>gamedesign</key>
+	<string>游戏设计</string>
+	<key>appname</key>
+	<string>幸运点</string>
+</dict>
+</plist>
